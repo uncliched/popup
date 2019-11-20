@@ -1,0 +1,246 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+@import url('https://fonts.googleapis.com/css?family=DM+Sans&display=swap');
+
+body
+{
+  font-family: 'DM Sans', sans-serif;
+}
+
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+
+.navbar-brand img
+{
+  height: 80px;
+}
+
+.main img
+{
+  width: 100%;
+}
+
+.nav-item
+{
+  padding: 0px 10px;
+}
+
+.cttime
+{
+  margin-top: 106px;
+  background-color: #7fc343;
+  font-weight: 700;
+  text-align: center;
+  padding: 30px;
+  margin-bottom: 80px;
+}
+
+.cttime p
+{
+  margin-bottom: 0px;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.slabs
+{
+  display: flex;
+  font-size: 54px;
+  color: #7fc343;
+  margin-left: auto;
+  justify-content: center;
+}
+
+.sone
+{
+  background-color: white;
+  width: 100px;
+  padding: 20px;
+  padding-top: 14px;
+  margin: 0px 10px;
+}
+
+.stwo
+{
+  font-size: 12px;
+}
+
+.novv
+{
+  text-align: left;
+  color: white;
+  font-size: 30px;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.nove
+{
+  text-align: left;
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 300;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.kidsover
+{
+  background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url(../img/balloonbg.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 100px;
+  margin-top: 80px;
+  text-align: center;
+}
+
+.kidsover .img2
+{
+  width: 70%;
+}
+
+.kidsover h4
+{
+  color: #1c69b0;
+  margin-bottom: 0px;
+  margin-top: 30px;
+}
+
+.uni
+{
+  height: 30px;
+  width: auto;
+}
+
+.kidsover .cta
+{
+  margin-top: 50px;
+}
+
+.cta
+{
+  background-color: #7fc343;
+  padding: 20px 50px;
+  border: none;
+  color: #fff;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  transition-duration: 0.3s;
+}
+
+.cta:hover
+{
+  background-color: #52901b;
+}
+
+.acts
+{
+  margin-bottom: 80px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 14px;
+  padding-top: 30px;
+  transition-duration: 0.3s;
+}
+
+.acts:hover
+{
+  padding-top: 10px;
+}
+
+.acts h2
+{
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 0px;
+  margin-top: 30px;
+  color: #f26b2c;
+}
+
+.acts img
+{
+  height: 150px;
+}
+
+.activ
+{
+  padding-top: 100px;
+  padding: 80px;
+  padding-bottom: 20px;
+}
+
+a:hover
+{
+  text-decoration-line: none;
+}
+
+.about
+{
+  padding: 80px;
+  background-color: rgba(28, 105, 176, 0.05);
+}
+
+.about p
+{
+  line-height: 1.8;
+  padding-right: 50px;
+  text-align: justify;
+}
+
+.about h1
+{
+  margin-bottom: 20px;
+  font-weight: 700;
+  color: #1c69b0;
+}
+
+footer
+{
+  background-color: #1c69b0;
+  color: rgba(255, 255, 255, 0.7);
+  padding: 50px;
+}
+
+footer h3
+{
+  color: white;
+}
+
+.social
+{
+  font-size: 30px;
+}
+
+.social i
+{
+  margin-right: 10px;
+}
+
+footer a
+{
+  color: rgba(255, 255, 255, 0.64);
+}
+
+footer a:hover
+{
+  color: white;
+}
+
+.topp
+{
+  text-align: right;
+  font-size: 24px;
+}
+
+.topp i
+{
+  font-size: 34px;
+}
